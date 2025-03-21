@@ -1,6 +1,3 @@
-Your README.md file should provide a clear and concise overview of your project. Here’s a good structure to follow:
-
-⸻
 
 MiniNet P4 Project
 
@@ -52,5 +49,3 @@ This project is inspired by Katran P4 and aims to simulate a similar environment
 This project is open-source under the MIT License.
 
 ⸻
-
-This will make your project look polished and professional! Let me know if you need any modifications. 🚀
