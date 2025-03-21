@@ -1,0 +1,3 @@
+/home/apple.linux/projects/p4-mini/build/CMakeFiles/p4-mini.dir
+/home/apple.linux/projects/p4-mini/build/CMakeFiles/edit_cache.dir
+/home/apple.linux/projects/p4-mini/build/CMakeFiles/rebuild_cache.dir
